@@ -1,0 +1,10 @@
+C:\Users\KO15428\Desktop\Ejemplo seleccion 2\Ejemplo seleccion 2\bin\Debug\Ejemplo seleccion 2.exe.config
+C:\Users\KO15428\Desktop\Ejemplo seleccion 2\Ejemplo seleccion 2\bin\Debug\Ejemplo seleccion 2.exe
+C:\Users\KO15428\Desktop\Ejemplo seleccion 2\Ejemplo seleccion 2\bin\Debug\Ejemplo seleccion 2.pdb
+C:\Users\KO15428\Desktop\Ejemplo seleccion 2\Ejemplo seleccion 2\obj\Debug\Ejemplo seleccion 2.csproj.AssemblyReference.cache
+C:\Users\KO15428\Desktop\Ejemplo seleccion 2\Ejemplo seleccion 2\obj\Debug\Ejemplo_seleccion_2.Form1.resources
+C:\Users\KO15428\Desktop\Ejemplo seleccion 2\Ejemplo seleccion 2\obj\Debug\Ejemplo_seleccion_2.Properties.Resources.resources
+C:\Users\KO15428\Desktop\Ejemplo seleccion 2\Ejemplo seleccion 2\obj\Debug\Ejemplo seleccion 2.csproj.GenerateResource.cache
+C:\Users\KO15428\Desktop\Ejemplo seleccion 2\Ejemplo seleccion 2\obj\Debug\Ejemplo seleccion 2.csproj.CoreCompileInputs.cache
+C:\Users\KO15428\Desktop\Ejemplo seleccion 2\Ejemplo seleccion 2\obj\Debug\Ejemplo seleccion 2.exe
+C:\Users\KO15428\Desktop\Ejemplo seleccion 2\Ejemplo seleccion 2\obj\Debug\Ejemplo seleccion 2.pdb

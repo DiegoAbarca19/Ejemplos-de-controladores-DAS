@@ -1,0 +1,10 @@
+C:\Users\KO15428\Desktop\Ejemplo de accion 1\Ejemplo de accion 1\bin\Debug\Ejemplo de accion 1.exe.config
+C:\Users\KO15428\Desktop\Ejemplo de accion 1\Ejemplo de accion 1\bin\Debug\Ejemplo de accion 1.exe
+C:\Users\KO15428\Desktop\Ejemplo de accion 1\Ejemplo de accion 1\bin\Debug\Ejemplo de accion 1.pdb
+C:\Users\KO15428\Desktop\Ejemplo de accion 1\Ejemplo de accion 1\obj\Debug\Ejemplo de accion 1.csproj.AssemblyReference.cache
+C:\Users\KO15428\Desktop\Ejemplo de accion 1\Ejemplo de accion 1\obj\Debug\Ejemplo_de_accion_1.Form1.resources
+C:\Users\KO15428\Desktop\Ejemplo de accion 1\Ejemplo de accion 1\obj\Debug\Ejemplo_de_accion_1.Properties.Resources.resources
+C:\Users\KO15428\Desktop\Ejemplo de accion 1\Ejemplo de accion 1\obj\Debug\Ejemplo de accion 1.csproj.GenerateResource.cache
+C:\Users\KO15428\Desktop\Ejemplo de accion 1\Ejemplo de accion 1\obj\Debug\Ejemplo de accion 1.csproj.CoreCompileInputs.cache
+C:\Users\KO15428\Desktop\Ejemplo de accion 1\Ejemplo de accion 1\obj\Debug\Ejemplo de accion 1.exe
+C:\Users\KO15428\Desktop\Ejemplo de accion 1\Ejemplo de accion 1\obj\Debug\Ejemplo de accion 1.pdb

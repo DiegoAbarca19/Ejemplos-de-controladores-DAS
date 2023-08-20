@@ -1,0 +1,10 @@
+C:\Users\KO15428\Desktop\Marcado de texto\Marcado de texto\bin\Debug\Marcado de texto.exe.config
+C:\Users\KO15428\Desktop\Marcado de texto\Marcado de texto\bin\Debug\Marcado de texto.exe
+C:\Users\KO15428\Desktop\Marcado de texto\Marcado de texto\bin\Debug\Marcado de texto.pdb
+C:\Users\KO15428\Desktop\Marcado de texto\Marcado de texto\obj\Debug\Marcado de texto.csproj.AssemblyReference.cache
+C:\Users\KO15428\Desktop\Marcado de texto\Marcado de texto\obj\Debug\Marcado_de_texto.Form1.resources
+C:\Users\KO15428\Desktop\Marcado de texto\Marcado de texto\obj\Debug\Marcado_de_texto.Properties.Resources.resources
+C:\Users\KO15428\Desktop\Marcado de texto\Marcado de texto\obj\Debug\Marcado de texto.csproj.GenerateResource.cache
+C:\Users\KO15428\Desktop\Marcado de texto\Marcado de texto\obj\Debug\Marcado de texto.csproj.CoreCompileInputs.cache
+C:\Users\KO15428\Desktop\Marcado de texto\Marcado de texto\obj\Debug\Marcado de texto.exe
+C:\Users\KO15428\Desktop\Marcado de texto\Marcado de texto\obj\Debug\Marcado de texto.pdb
